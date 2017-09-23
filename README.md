@@ -9,4 +9,4 @@ This simple project shows how to set up and run Java 9 Example With Maven And JU
 ## Running the example
 * `mvn test`
 
-[Java 9 Example With Maven And JUnit 5]:  https://howtoprogram.xyz/2017/09/23/java-9-maven-junit-5-example/
+[Java 9 Example With Maven And JUnit 5](https://howtoprogram.xyz/2017/09/23/java-9-maven-junit-5-example/)
