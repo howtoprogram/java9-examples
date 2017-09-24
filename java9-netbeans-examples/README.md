@@ -1,6 +1,6 @@
 # Java 9 New Features Examples and Tutorials
 
-Demonstration for[Create Immutable Lists In Java 9 By Static Factory Methods](https://howtoprogram.xyz/2017/09/24/java-9-create-immutable-lists-static-factory-method/)
+Demonstration for [Set Up Eclipse, IntelliJ And NetBeans For Java 9](https://howtoprogram.xyz/2017/09/24/set-up-eclipse-intellij-and-netbeans-for-java-9/)
 
 
 ## Prerequisites:
