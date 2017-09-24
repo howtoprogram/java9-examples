@@ -1,5 +1,5 @@
-# Java 9 Example With Maven And JUnit 5
-This simple project shows how to set up and run Java 9 Example With Maven And JUnit 5
+# Java 9 Examples
+Includes all examples about Java 9 new features
 
 
 ## Prerequisites:
@@ -9,4 +9,8 @@ This simple project shows how to set up and run Java 9 Example With Maven And JU
 ## Running the example
 * `mvn test`
 
-Find more detail at: [Java 9 Example With Maven And JUnit 5](https://howtoprogram.xyz/2017/09/23/java-9-maven-junit-5-example/)
+Find more detail at: 
+
+* [Create Immutable Lists In Java 9 By Static Factory Methods]( https://howtoprogram.xyz/2017/09/24/java-9-create-im…c-factory-method/)
+* [Java 9 Example With Maven And JUnit 5](https://howtoprogram.xyz/2017/09/23/java-9-maven-junit-5-example/)
+
