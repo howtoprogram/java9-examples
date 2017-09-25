@@ -6,9 +6,19 @@ Demonstration for[Create Immutable Lists In Java 9 By Static Factory Methods](ht
 ## Prerequisites:
 * Maven >= 3.3.1
 * JDK 9
+* IntelliJ 2017.3 DEA or later 
+
+## Import the project into IntelliJ IDEA
+Click "Import Project" button --> browse to project directory --> OK --> Import project from external model --> Maven --> Next --> Next --> Finish
 
 ## Running the example
-* `mvn test`
+* Run with IntelliJ
+  
+  Open JUnit test class --> Right Click --> Run
+  
+* Run with Maven
+
+`mvn test`
 
 
 
