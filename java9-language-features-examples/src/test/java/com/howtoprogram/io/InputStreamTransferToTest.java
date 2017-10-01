@@ -11,7 +11,7 @@ public class InputStreamTransferToTest {
     @Test
     public void testTransferTo() throws IOException {
 
-        ByteArrayInputStream bis = new ByteArrayInputStream("Hello".getBytes());
+        ByteArrayInputStream bis = new ByteArrayInputStream("Hello Java 9".getBytes());
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
         try {
 
@@ -44,11 +44,11 @@ public class InputStreamTransferToTest {
     @Test
     public void testTransferToJava9Syntax() throws IOException {
 
-        ByteArrayInputStream bis = new ByteArrayInputStream("Hello".getBytes());
+        ByteArrayInputStream bis = new ByteArrayInputStream("Hello Java 9".getBytes());
         ByteArrayOutputStream bos = new ByteArrayOutputStream();
 
         try (bis; bos) {
-            
+
             long count = bis.transferTo(bos);
 
             byte[] bytes = bos.toByteArray();
