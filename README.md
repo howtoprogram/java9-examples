@@ -13,4 +13,5 @@ Find more detail at:
 * [Set Up Eclipse, IntelliJ And NetBeans For Java 9](https://howtoprogram.xyz/2017/09/24/set-up-eclipse-intellij-and-netbeans-for-java-9/)
 * [Create Immutable Lists In Java 9 By Static Factory Methods](https://howtoprogram.xyz/2017/09/24/java-9-create-immutable-lists-static-factory-method/)
 * [Java 9 Example With Maven And JUnit 5](https://howtoprogram.xyz/2017/09/23/java-9-maven-junit-5-example/)
+* [Copy Streams In Java 9 With The InputStream.transferTo() Method](https://howtoprogram.xyz/2017/10/01/java-9-inputstream-transferto-copy-streams/)
 
