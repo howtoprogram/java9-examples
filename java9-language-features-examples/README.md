@@ -6,6 +6,9 @@ Demonstration for:
 
 [Copy Streams In Java 9 With The InputStream.transferTo() Method](https://howtoprogram.xyz/2017/10/01/java-9-inputstream-transferto-copy-streams/)
 
+[Compare Arrays In Java 9](https://howtoprogram.xyz/2017/10/14/java-9-compare-arrays/)
+
+[Streams API Updates In Java 9](https://howtoprogram.xyz/2017/10/12/java-9-streams-api-updates/)
 
 ## Prerequisites:
 * Maven >= 3.3.1
