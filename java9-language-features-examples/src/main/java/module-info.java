@@ -1,3 +1,4 @@
-module com.howtprogram.java9ex {
-	requires java.base;
+module java9.language.features.example {
+    requires jdk.incubator.httpclient;
+
 }
