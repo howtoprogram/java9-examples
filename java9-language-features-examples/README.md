@@ -10,6 +10,10 @@ Demonstration for:
 
 [Streams API Updates In Java 9](https://howtoprogram.xyz/2017/10/12/java-9-streams-api-updates/)
 
+[Java 9 HTTP 2 Client API Example](https://howtoprogram.xyz/2017/10/19/java-9-http-2-client-api-example/)
+
+
+
 ## Prerequisites:
 * Maven >= 3.3.1
 * JDK 9
