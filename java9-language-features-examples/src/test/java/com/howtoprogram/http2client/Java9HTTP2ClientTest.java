@@ -1,4 +1,4 @@
-package com.howtoprogram.java9ex;
+package com.howtoprogram.http2client;
 
 
 import jdk.incubator.http.HttpClient;
