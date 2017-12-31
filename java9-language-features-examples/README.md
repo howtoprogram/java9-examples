@@ -12,6 +12,7 @@ Demonstration for:
 
 [Java 9 HTTP 2 Client API Example](https://howtoprogram.xyz/2017/10/19/java-9-http-2-client-api-example/)
 
+[Create An Immutable Set In Java 9 By Static Factory Methods](https://howtoprogram.xyz/2017/12/31/create-immutable-set-java-9-static-factory-methods/)
 
 
 ## Prerequisites:
