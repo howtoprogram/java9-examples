@@ -14,19 +14,14 @@ public class Java9SetFactoryMethodTest {
 
     @Test
     public void testImmutableSetJava9() {
-
         Set<String> japanNoodles = Set.of("Ramen", "Yakisoba", "Udon", "Soba", "Somen");
         assertEquals(5, japanNoodles.size());
     }
 
     @Test
     public void testImmutableSetNotModified() {
-
-
         Set<String> japanNoodles = Set.of("Ramen", "Yakisoba", "Udon", "Soba", "Somen");
-
         assertEquals(5, japanNoodles.size());
-
         assertThrows(UnsupportedOperationException.class, () -> {
             // Add more element
             japanNoodles.add("Negi");
@@ -38,7 +33,6 @@ public class Java9SetFactoryMethodTest {
 
     @Test
     public void testImmutableSetNullAttempts() {
-
         assertThrows(NullPointerException.class, () -> {
             Set<String> stringList = Set.of(null);
         });
@@ -47,7 +41,6 @@ public class Java9SetFactoryMethodTest {
 
     @Test
     public void testImmutableSetRejectDupplicates() {
-
         assertThrows(IllegalArgumentException.class, () -> {
             Set<?> teaSet = Set.of("Shincha", "Aki Bancha", "Hojicha", "Hojicha");
         });
@@ -81,7 +74,6 @@ public class Java9SetFactoryMethodTest {
 
     @Test
     public void testImmutableSetSerializable() throws IOException {
-
         Set<String> drinks = Set.of("Gyokuro", "Tamaryokucha", "Kamairicha");
         //serialize the list
         ObjectOutputStream oos = new ObjectOutputStream(System.out);
