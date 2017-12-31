@@ -9,10 +9,6 @@
 *.iws
 *.ipr
  
-# OS
-Thumbs.db
-.DS_Store
- 
 # Maven
 target/
  
